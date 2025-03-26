@@ -1,1 +1,15 @@
+# Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
 
+# Build results
+bin/
+obj/
+
+# Others
+*.exe
+*.pdb
+*.cache
+*.log
